@@ -1,11 +1,11 @@
-CategoryName,Name,Price,Grams,Cost/gram(USD),Cost/gram(HKD)
+CategoryName,Name,Price,Grams,Cost/gram(USD),Cost/gram(HKD),URL
 Al Fakher,Al Fakher Shisha Tobacco 50g,3.37,50,14.84,1.90,https://www.hookah-shisha.com/p-1276-al-fakher-hookah-tobacco.html
 Al Fakher,Al Fakher Shisha Tobacco 250g,13.49,250,18.53,2.38,https://www.hookah-shisha.com/p-319-al-fakher-hookah-tobacco250-g.html
 Al Fakher,Al Fakher Shisha Tobacco 1000g,44.99,1000,22.23,2.85,https://www.hookah-shisha.com/p-5840-al-fakher-hookah-tobacco-1000-g.html
 Al Fakher Crafted,Al Fakher Crafted Batch Shisha Tobacco 250g,17.99,250,13.90,1.78,https://www.hookah-shisha.com/p-24319-al-fakher-crafted-batch-hookah-tobacco250g.html
 Al Fakher Crafted,Al Fakher Crafted Batch Shisha Super Pack x3 250g,50.97,750,14.71,1.89,https://www.hookah-shisha.com/p-24483-al-fakher-crafted-batch-shisha-superpack.html
 Starbuzz,Starbuzz Shisha 100g,11.99,100,8.34,1.07,https://www.hookah-shisha.com/p-4246-starbuzz-hookah-tobacco-flavors-100.html
-Starbuzz,Starbuzz Shisha 100g,11.99,250,20.85,2.67,https://www.hookah-shisha.com/p-4246-starbuzz-hookah-tobacco-flavors-100.html
+Starbuzz,Starbuzz Shisha 250g,20.99,250,11.91,1.53,https://www.hookah-shisha.com/p-1859-starbuzz-flavors-shisha-250g.html
 Starbuzz,Starbuzz Shisha Super Pack - 3 250g Tins,59.37,750,12.63,1.62,https://www.hookah-shisha.com/p-1860-starbuzz-flavors-250.html
 Starbuzz,Starbuzz Shisha 1000g,76.99,1000,12.99,1.67,https://www.hookah-shisha.com/p-3815-starbuzz-shisha-1000-kilogram.html
 Starbuzz Bold,Starbuzz Bold Shisha Tobacco 100g,12.99,100,7.70,0.99,https://www.hookah-shisha.com/p-8914-starbuzz-bold-hookah-tobacco-flavors-100.html

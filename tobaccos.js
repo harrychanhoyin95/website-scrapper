@@ -38,7 +38,7 @@ export const tobaccos = [
       },
       {
         grams: 250,
-        url: 'https://www.hookah-shisha.com/p-4246-starbuzz-hookah-tobacco-flavors-100.html'
+        url: 'https://www.hookah-shisha.com/p-1859-starbuzz-flavors-shisha-250g.html'
       },
       {
         grams: 750,
